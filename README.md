@@ -3,6 +3,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanggihoo)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanggihoo)](https://github.com/anuraghazra/github-readme-stats)
 
+## interest things 
+---
+- Computer vision
+  - Generative Model
+  - Object Detection Task
+- Multimotal Task
+## Project
+<ui> Pytorch
+	<li>
+		<a href="https://github.com/kanggihoo/Implementation-with-Pytorch">Implement paper with Pytorch</a>	
+	</li>
+</ui>
+<ui> My Notion Page
+	<li>
+		<a href="https://kanggiho.notion.site/AI-ML-307882d5683e457e926a57882bd722a7?pvs=4">My record about AI/ML</a>
+	</li>
+	<li>
+		<a href="https://kanggiho.notion.site/Math-51cddfd6470448c7b40d7a5bf4a999c0?pvs=4">Math</a>  	
+	</li>
+</ui>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
