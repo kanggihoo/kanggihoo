@@ -1,15 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=kanggihoo&fontSize=48&desc=Backend%20Developer&descAlignY=72&fontAlignY=40" width="100%" alt="kanggihoo · Backend Developer" />
 
-AI·모델의 출력을 서비스가 쓰는 데이터와 흐름으로 연결하고,
-개선은 측정 조건과 원본 evidence로 증명합니다.
-
-## How I work
-
-- 나이브 베이스라인을 먼저 만들고, 한 번에 하나만 바꾸고 다시 잽니다.
-- 결정은 ADR로 남기고, 실측으로 뒤집은 결정도 지우지 않습니다.
-- 장애·중복 요청·토큰 탈취 같은 실패 시나리오를 재현하고 테스트로 고정합니다.
-- AI agent는 spec → TDD → 교차 리뷰 단계를 기계 검사로 묶어서 씁니다.
-
 ## Tech Stack
 
 <table>
